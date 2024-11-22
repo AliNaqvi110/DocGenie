@@ -46,10 +46,10 @@ To use the Doc Genie, follow these steps:
 5. Ask questions in natural language about the loaded PDFs using the chat interface.
 
 ## Contributing
-<p>We welcome contributions from the community to improve and expand Gemini Pro Pdf Chatbot. If you have suggestions or would like to contribute, please create a pull request or open an issue.</p>
+<p>We welcome contributions from the community to improve and expand Doc Genie. If you have suggestions or would like to contribute, please create a pull request or open an issue.</p>
 
 ## License
-<p>Gemini Pro Pdf Chatbot is licensed under the MIT License.</p>
+<p>Doc Genie is licensed under the MIT License.</p>
 
 ## Acknowledgments
-<p>We would like to express our gratitude to the open-source community (google, Langchain) for the tools and libraries that make this project possible. Special thanks to the creators of Streamlit and Langchain for their outstanding work.</p>
+<p>We would like to express our gratitude to the open-source community for the tools and libraries that make this project possible. Special thanks to the creators of Streamlit and Langchain for their outstanding work.</p>
